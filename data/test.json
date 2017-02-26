@@ -1,0 +1,48 @@
+{
+  "corpus" : [
+    {
+      "sentence" : "Bonjour",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Bonjour Woodhouse",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Salut Woodhouse",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Salut Woodhouse, comment ça va ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Tu vas bien ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Peux-tu me montrer les séances de cinéma ?",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Montrez moi les séances.",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Je m'ennuie, quelles sont les séances près de chez moi ?",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Au revoir Woodhouse",
+      "label"    : "close"
+    },
+    {
+      "sentence" : "Bonne journée Woodhouse",
+      "label"    : "close"
+    },
+    {
+      "sentence" : "Bonne nuit Woodhouse",
+      "label"    : "close"
+    }
+  ]
+}

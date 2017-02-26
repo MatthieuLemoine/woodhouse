@@ -1,0 +1,8 @@
+{
+  "unmatched"        : "Je n'ai pas compris votre demande. Pouvez-vous reformuler ?",
+  "first"            : "Bonjour {{name}}",
+  "prompt"           : "Que puis-je faire pour vous ?",
+  "answer_greetings" : "Je vais bien merci. Que puis-je faire pour vous ?",
+  "answer_showtime"  : "Attendez un moment je recherche cela pour vous.",
+  "bye"              : "Au revoir {{name}}. Passez une bonne journée."
+}

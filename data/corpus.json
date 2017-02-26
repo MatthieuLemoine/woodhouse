@@ -1,0 +1,100 @@
+{
+  "corpus" : [
+    {
+      "sentence" : "Je veux voir les séances de cinéma.",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Quelles sont les séances près de chez moi ?",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Qu'est ce qu'il y a au cinéma ?",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Montre moi les séances de cinéma.",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "À quelle heure passe le film ?",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Je veux voir les séances de ciné",
+      "label"    : "showtime"
+    },
+    {
+      "sentence" : "Bonjour",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Bonjour Woodhouse",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Salut",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Salut Woodhouse",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Hey",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Hey Woodhouse",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Wesh",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Wesh Woodhouse",
+      "label"    : "greetings"
+    },
+    {
+      "sentence" : "Comment ça va ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Ça va ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Tu vas bien ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Comment allez-vous ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Vous allez bien ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Bien ou bien ?",
+      "label"    : "greetings_ask"
+    },
+    {
+      "sentence" : "Au revoir",
+      "label"    : "close"
+    },
+    {
+      "sentence" : "Bonne soirée",
+      "label"    : "close"
+    },
+    {
+      "sentence" : "Bonne journée",
+      "label"    : "close"
+    },
+    {
+      "sentence" : "Bonne nuit",
+      "label"    : "close"
+    }
+  ]
+}

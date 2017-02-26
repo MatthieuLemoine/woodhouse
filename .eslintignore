@@ -1,0 +1,7 @@
+# Dependency directory
+node_modules
+# Generated ressources
+coverage
+.nyc_output/*
+# Build
+/build
